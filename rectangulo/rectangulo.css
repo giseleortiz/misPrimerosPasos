@@ -1,0 +1,5 @@
+.rectangulo {
+    width: 200px; /* Anchura del rectángulo */
+    height: 100px; /* Altura del rectángulo */
+    background-color: #e74c3c; /* Color de fondo del rectángulo */
+  }

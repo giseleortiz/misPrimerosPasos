@@ -1,0 +1,6 @@
+.circulo {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db; /* Color de fondo del círculo */
+    border-radius: 50%; /* Hace que los bordes sean redondeados, creando un círculo */
+  }

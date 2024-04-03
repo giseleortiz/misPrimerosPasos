@@ -1,0 +1,5 @@
+.cuadrado {
+    width: 100px; /* Anchura del cuadrado */
+    height: 100px; /* Altura del cuadrado */
+    background-color: #2ecc71; /* Color de fondo del cuadrado */
+  }
